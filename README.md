@@ -1,19 +1,19 @@
 # DSC563 - Visualization Work
 
 Author: Jeffrey Sirard (MBA student, class of 2027)
+
 Purpose: For Data Visualization (DSC-563)
-Audience: Professor Michael McCarthy
-Date: 10/28/2026 (version 1.0)
 
-Purpose: This README.md serves as a guide from the student to assist the professor in navigating a GitHub repository containing graduate work for a data visualization course.
+Instructor: Professor Michael McCarthy
 
-Structure: For clarity, this will be written as an FAQ.
+Purpose & Structure: This README.md serves as a guide from the student to assist the professor in navigating a GitHub repository containing graduate work for a data visualization course. For clarity, this will be written as an FAQ.
 
 Questions: Email jasirard@utica.edu.
 
 1. How do I open, run, and check your work?
-   - Link: https://github.com/jasirard/DSC563
-   - This GitHub repository is public and should be accessible.
+   - GitHub Repository (Public): https://github.com/jasirard/DSC563
+   - GitHub Profile: https://github.com/jasirard
+   - All project files are located in the repository; Click to open each file.
    - See FAQ #4 for filenames and descriptions of their contents.
 
 2. What is the purpose of this data visualization (i.e., what is the question and intended audience)?
@@ -27,7 +27,7 @@ Questions: Email jasirard@utica.edu.
    - Reuse: The simulated table and starter code may be reused under CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/.
    - Note: External software and readings retain their own licenses.
 
-4. The filenames and what each file contains.
+4. What are the filenames and what does each file contain?
 
    Module 01 workbook outputs:
    - m01_after_chart.png: Improved chart generated using Collab's simulated data set from Module 01.
@@ -64,7 +64,7 @@ Questions: Email jasirard@utica.edu.
    - Option 2: Sirard Module 02.twbx.
 
 8. How can I access your Tableau workbook?
-   - Filename: Sirard Module 02.twbx.
+   - Open File: Sirard Module 02.twbx. within the GitHub Repository (see FAQ #1).
 
 9. Document the analysis you already completed. You do not need another analysis, Word document, or presentation for GitHub.
    - Analysis is documented in the Module 02 presentation [pending upload]
