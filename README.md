@@ -44,7 +44,7 @@ Questions: Email jasirard@utica.edu.
    - m02_checked_values.png: Screenshot from Sirard Module 02.twbx; Confirmation of matching values for Tableau and Collab charts.
    - m02_ext_checked_values.png: Screenshot from Sirard Module 02.twbx; Weighted values (monthly vs. capacity) for Module 02.
    - m02_ext_Tableau_calculations.png: Screenshot from Sirard Module 02.twbx; Comparison of weighted values among both .csv files.
-   - Sirard Module 02 Presentation.pptx: [pending upload]
+   - Sirard Module 02 Presentation.pptx: PowerPoint slides used for VoiceThread presentation.
 
 5. What are the steps to open the student's Module 1 notebook in Colab, run it, and locate the outputs?
    - Access should be granted already. If not, please email me at jasirard@utica.edu for access.
@@ -67,4 +67,4 @@ Questions: Email jasirard@utica.edu.
    - Open File: Sirard Module 02.twbx. within the GitHub Repository (see FAQ #1).
 
 9. Document the analysis you already completed. You do not need another analysis, Word document, or presentation for GitHub.
-   - Analysis is documented in the Module 02 presentation [pending upload]
+   - Analysis is documented in the Module 02 presentation [DSC 563 Module 2 Presentation.pptx]
